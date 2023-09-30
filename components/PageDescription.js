@@ -1,6 +1,6 @@
 export default function PageDescription() {
   return (
-    <p className="pt-10 mr-20 ml-20 pl-5">
+    <p className="pt-10 mr-20 ml-20 pl-5 mb-10">
       ROCHELHAIR propose la vente en gros et au particulier d’extensions de
       cheveux 100% naturels, de perruques haut de gamme et d’autres accessoires
       et compléments capillaires. ROCHELHAIR offre à ses clients de cheveux 100%
